@@ -11,3 +11,4 @@
 
 ## Resources
 * [How can we build explainable AI ? - Quora ans with papers/codes ](http://qr.ae/TUGwdI)
+* [Fairness in ML - Books/Courses/@Berkely/@Princeton](https://fairmlbook.org/)
