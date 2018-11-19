@@ -11,10 +11,10 @@
 
 ## Papers
 * [On Pixel-wise Explanations for Non-Linear Classifier Decisions by Layer-wise Relevance Propagation](http://dx.doi.org/10.1371/journal.pone.0130140)  
-** Layerwise Relevavnce Propagation(LRP)
+  * Layerwise Relevavnce Propagation(LRP)
 * [Explaining nonlinear classification decisions with deep Taylor decomposition](https://doi.org/10.1016/j.patcog.2016.11.008)
 * [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)  
-** Integrated Gradients 
+  * Integrated Gradients 
 
 ## Resources
 * [How can we build explainable AI ? - Quora ans with papers/codes ](http://qr.ae/TUGwdI)
