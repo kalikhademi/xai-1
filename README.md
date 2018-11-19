@@ -10,10 +10,10 @@
 2. Implementing the ideas into code, to actually see wheather the feasibility of the ideas in coming 5 years i.e 2018-2023.
 
 ## Papers
-* [On Pixel-wise Explanations for Non-Linear Classifier Decisions by Layer-wise Relevance Propagation](http://dx.doi.org/10.1371/journal.pone.0130140)
+* [On Pixel-wise Explanations for Non-Linear Classifier Decisions by Layer-wise Relevance Propagation](http://dx.doi.org/10.1371/journal.pone.0130140)  
 ** Layerwise Relevavnce Propagation(LRP)
 * [Explaining nonlinear classification decisions with deep Taylor decomposition](https://doi.org/10.1016/j.patcog.2016.11.008)
-* [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)
+* [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)  
 ** Integrated Gradients 
 
 ## Resources
